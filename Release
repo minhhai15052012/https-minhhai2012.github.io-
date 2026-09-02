@@ -1,0 +1,8 @@
+Origin: MinhHai Repo
+Label: MinhHai Repo
+Suite: stable
+Version: 1.0
+Codename: stable
+Architectures: iphoneos-arm arm64 arm64e
+Components: main
+Description: MinhHai Sileo Repository
