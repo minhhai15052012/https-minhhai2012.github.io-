@@ -1,8 +1,8 @@
 Origin: MinhHai Repo
 Label: MinhHai Repo
 Suite: stable
-Version: 1.0
 Codename: stable
-Architectures: iphoneos-arm iphoneos-arm64 iphoneos-arm64e
+Version: 1.0
+Architectures: iphoneos-arm
 Components: main
 Description: MinhHai Sileo Repository
