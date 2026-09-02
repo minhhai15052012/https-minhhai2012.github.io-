@@ -1,0 +1,16 @@
+Package: com.yourcompany.27notification
+Version: 0.0.1-3+debug
+Architecture: iphoneos-arm
+Maintainer: NMH
+Installed-Size: 220
+Depends: firmware (>= 15.0)
+Filename: debs/com.yourcompany.27notification_0.0.1-3+debug_iphoneos-arm.deb
+Size: 10680
+MD5sum: c2de59dc76d9c318af8492198de8ee1f
+SHA1: 887f6b71dacceff053ab63c38130476a2829f384
+SHA256: 0713ebabff2f05cec2f15b5e78465a42d3dbc69134f356a56833b566daf92183
+Section: Tweaks
+Description: hiệu ứng thông báo ios27 beta
+Author: NMH
+Name: 27notification
+
