@@ -1,8 +1,8 @@
-Origin: MinhHai Repo
-Label: MinhHai Repo
+Origin: Nguyễn Minh Hải
+Label: Nguyễn Minh Hải
 Suite: stable
 Codename: stable
 Version: 1.0
 Architectures: iphoneos-arm
 Components: main
-Description: MinhHai Sileo Repository
+Description: Tweak tự làm của Nguyễn Minh Hải 
